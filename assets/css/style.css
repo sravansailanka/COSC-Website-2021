@@ -812,7 +812,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details h2 {
-    color: #112363;
+    color: #2B3531;
     font-size: 28px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -824,7 +824,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #speakers-details .details .social a {
     background: #e9edfb;
-    color: #112363;
+    color: #2B3531;
     line-height: 1;
     display: inline-block;
     text-align: center;
@@ -844,7 +844,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details p {
-    color: #112363;
+    color: #2B3531;
     font-size: 15px;
     margin-bottom: 10px;
 }
@@ -1336,7 +1336,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .contact-info address,
 #contact .contact-info p {
     margin-bottom: 0;
-    color: #112363;
+    color: #2B3531;
 }
 
 #contact .contact-info h3 {
@@ -1344,7 +1344,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 15px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #112363;
+    color: #2B3531;
 }
 
 #contact .contact-info a {
